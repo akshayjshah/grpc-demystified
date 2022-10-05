@@ -1,6 +1,8 @@
 gRPC Demystified
 ================
 
+https://user-images.githubusercontent.com/972790/194163802-3cb7cdfe-144f-4646-a630-87ae595a518b.mp4
+
 This repository contains the slides and code for a lightning talk I hope to
 give at Gophercon 2022. In the talk, we build a gRPC server &mdash; from
 scratch &mdash; using just the Go standard library.
