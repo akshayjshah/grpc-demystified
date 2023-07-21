@@ -1,7 +1,7 @@
 gRPC Demystified
 ================
 
-[![Watch the video](https://img.youtube.com/vi/rNI_pCa9slQ/0.jpg)(https://youtu.be/rNI_pCa9slQ)
+[![Watch the video](https://img.youtube.com/vi/rNI_pCa9slQ/0.jpg)](https://youtu.be/rNI_pCa9slQ)
 
 This repository contains the slides and code for a lightning talk I gave at
 Gophercon 2022. In the talk, we build a gRPC server &mdash; from scratch
