@@ -1,15 +1,16 @@
 gRPC Demystified
 ================
 
-https://user-images.githubusercontent.com/972790/194163802-3cb7cdfe-144f-4646-a630-87ae595a518b.mp4
+[![Watch the video](https://img.youtube.com/vi/rNI_pCa9slQ/0.jpg)](https://youtu.be/rNI_pCa9slQ)
 
-This repository contains the slides and code for a lightning talk I hope to
-give at Gophercon 2022. In the talk, we build a gRPC server &mdash; from
-scratch &mdash; using just the Go standard library.
+This repository contains the slides and code for a lightning talk I gave at
+Gophercon 2022. In the talk, we build a gRPC server &mdash; from scratch
+&mdash; using just the Go standard library.
 
-The slides are available in [Keynote](grpc-demystified.key) or
-[PDF](grpc-demystified.pdf) format. There's also a five-minute
-[recording](grpc-demystified.mp4) of me practicing the talk.
+If you'd like a copy of the slides, they're available in
+[Keynote](grpc-demystified.key) or [PDF](grpc-demystified.pdf) format. You can
+watch the talk on [YouTube](https://youtu.be/rNI_pCa9slQ) (or click the image
+above).
 
 The code includes a [REST handler](rest.go) and a from-scratch [gRPC
 handler](grpc.go), both implementing the same logic. There's also a client for
